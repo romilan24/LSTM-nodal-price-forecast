@@ -1,10 +1,5 @@
-# LSTM-nodal-price-forecast
-A Deep Learning electricity price forecast using Long Short-Term Memory (LSTM) deep learning network.
-
-
-
-# Deep Learning Demand Forecast
-A Deep Learning electric Demand forecast using Long Short-Term Memory (LSTM) deep learning network and data generated from https://github.com/romilan24/load-weather-dataset
+# Deep Learning LMP nodal Price Forecast
+A Deep Learning electricity price forecast using Long Short-Term Memory (LSTM) deep learning network based on data generated from https://github.com/romilan24/load-weather-dataset and https://github.com/romilan24/CAISO-OASIS-LMP-downloader
 
 ## How to use
 - download the data.csv and py scripts; save to local path
